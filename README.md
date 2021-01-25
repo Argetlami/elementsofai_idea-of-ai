@@ -66,4 +66,4 @@ Programming-wise the backend system could be done with Rust or similar high-effi
 
 ## Acknowledgments
 
-This project was an inspiration coming from existing assistant programs such as (Amazon Alexa)[https://developer.amazon.com/en-US/alexa] and (Google Assistant)[https://assistant.google.com]. Neither of these are open source nor have a focus on privacy. This project aims to be a solution for people who would like to have such functionality but in a private environment without sharing their habits or profile. There are no such projects I am aware of, yet I am sure there are similar existing solutions out there.
+This project was an inspiration coming from existing assistant programs such as [Amazon Alexa](https://developer.amazon.com/en-US/alexa) and [Google Assistant](https://assistant.google.com). Neither of these are open source nor have a focus on privacy. This project aims to be a solution for people who would like to have such functionality but in a private environment without sharing their habits or profile. There are no such projects I am aware of, yet I am sure there are similar existing solutions out there.
